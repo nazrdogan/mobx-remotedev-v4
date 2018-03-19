@@ -1,4 +1,4 @@
-import { observable, action, extras, useStrict, runInAction } from 'mobx';
+import { observable, action, useStrict, runInAction } from 'mobx';
 import remotedev from 'mobx-remotedev/lib/dev';
 
 useStrict(true);
